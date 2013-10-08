@@ -26,7 +26,7 @@ Add the following to the bottom of the postgresq.conf file:
 
 In order to use any of the functionality provided by this project you must run the following sql statement: `select xt.js_init();`
 
-The main purpose of this project is to provide an Object Relational Map (ORM) structure and APIs to retreive and manipulate records as json objects, and to make function calls on the database. Some examples are provided below. More may be found in the source files.
+The main purpose of this project is to provide an Object Relational Map (ORM) structure and APIs to retrieve and manipulate records as json objects, and to make function calls on the database. Some examples are provided below. More may be found in the source files.
 
 ##Retrieve a Record
 
